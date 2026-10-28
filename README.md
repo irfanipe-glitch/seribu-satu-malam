@@ -1,1 +1,3 @@
-Buka index.html dalam pelayar moden. Internet diperlukan untuk StPageFlip dan fon daripada CDN. Fail asal pada /mnt/data/seribu-satu-malam.js tidak tersedia dalam ruang kerja ini; fail JavaScript di sini ialah pelaksanaan berdikari yang dibina semula.
+# Pembaca Bab
+
+Masukkan tajuk bab dan isi sendiri dalam panel editor. Pisahkan perenggan dengan satu baris kosong; pembaca akan meletakkan 2–4 perenggan pada setiap halaman. Laraskan reka bentuk serta saiz tajuk dan isi sebelum membina buku. Tekan ikon reading mode untuk menyembunyikan semua panel semasa membaca.
