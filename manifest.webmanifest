@@ -1,0 +1,1 @@
+{"name":"Pembaca Bab","short_name":"Pembaca Bab","description":"Pembaca buku satu bab yang boleh diperibadikan.","start_url":"./?app=1","display":"standalone","background_color":"#181211","theme_color":"#1b1210","orientation":"portrait-primary","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
