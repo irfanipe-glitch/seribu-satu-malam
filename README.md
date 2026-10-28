@@ -1,0 +1,1 @@
+Buka index.html dalam pelayar moden. Internet diperlukan untuk StPageFlip dan fon daripada CDN. Fail asal pada /mnt/data/seribu-satu-malam.js tidak tersedia dalam ruang kerja ini; fail JavaScript di sini ialah pelaksanaan berdikari yang dibina semula.
